@@ -1,4 +1,4 @@
-# 📒 MERN Note-Taking App
+# 📒 Note-Taking App
 A full-stack **Note-Taking Web Application** built with the **MERN stack** (MongoDB, Express, React, Node.js) and styled using **Tailwind CSS**.  
 The app allows users to **register**, **log in**, **create**, **edit**, **pin**, and **delete** notes with an intuitive UI.
 
